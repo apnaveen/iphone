@@ -1,4 +1,4 @@
 print("Hello Naveen!")
-print("Welcome to Python")os
+print("Welcome to Python")windows
 
 Naveen
